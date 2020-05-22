@@ -176,3 +176,4 @@ Overriding methods:
 	We are overriding the toString method. For example it overrides a method with the same signature
 Method overloading:
 	Declare a method multiple times but with different signatures
+Casting meaning
