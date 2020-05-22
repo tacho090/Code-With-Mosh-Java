@@ -21,11 +21,12 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Java" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/UpcastingDowncasting" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -58,9 +59,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1238" y="310" width="426" height="493" key="FileChooserDialogImpl" timestamp="1590113703287">
-      <screen x="66" y="27" width="1854" height="1053" />
+    <state x="1235" y="310" width="426" height="493" key="FileChooserDialogImpl" timestamp="1590160075577">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
+    <state x="1235" y="310" key="FileChooserDialogImpl/59.27.1861.1053@59.27.1861.1053" timestamp="1590160075577" />
     <state x="1238" y="310" width="426" height="493" key="FileChooserDialogImpl/66.27.1854.1053@66.27.1854.1053" timestamp="1590113703287" />
     <state width="879" height="275" key="GridCell.Tab.0.bottom" timestamp="1590113705287">
       <screen x="66" y="27" width="1854" height="1053" />
