@@ -177,3 +177,6 @@ Overriding methods:
 Method overloading:
 	Declare a method multiple times but with different signatures
 Casting meaning
+	Also known as type conversion, it is used in computer programming to ensure variables are correctly processed by a function. An example of typecasting is converting an integer to a string.
+Polymorphism
+	Every child class overrides a parent class method.
