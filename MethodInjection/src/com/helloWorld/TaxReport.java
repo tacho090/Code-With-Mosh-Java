@@ -7,7 +7,7 @@ public class TaxReport {
         this.calculator = calculator;
     }
 
-    public void show(TaxCalculator calculator) {
+    public void show() {
         var tax = calculator.calculateTax();
         System.out.println(tax);
     }

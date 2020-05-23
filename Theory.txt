@@ -274,3 +274,43 @@ Inheritance Quiz:
 	r.Does Java support multiple inheritance?
 	No.
 	
+Interfaces
+	We use interface to build loosely-coupled, extensible, testable applications. 
+	It decouples classes between each other, so that changes don't affect other classes.
+	To minimize the impact of changes you put an interface between them.
+	Programming against interfaces.
+	Loosely coupled and scalable applications.
+	Examples:
+		Data compression
+		Encryption
+		Sorting
+		Searching
+	Interfaces worry abouth what should be done.
+	Classes worry about how it should be done.
+	Interfaces are implemented via keyword implements.
+	Interfaces are about whats, not hows.
+	What should be implemented. Whats belong to interfaces.
+	INterfaces describe what should a class have.
+	Classes should describe how is it all implemented.
+Constructor Injection
+Method Injection
+Interface Segregation Principle
+	Divide big interfaces into smaller ones
+'Use strict' Directive javascript
+	Implemented in ECMAScript version 5. Its purpose is to indicate the code should be executed in "strict mode".
+	With strict mode, you cannot, for example, use undeclared variables, delete 
+	variables or delete functions.
+	Writing to a read only property is not allowed.
+Difference between interfaces and abstract classes
+	Interfaces
+		Contracts to build loosely cupled, extensible, testable applications.
+		A class can implement many interfaces.
+		Just the declaration of methods of an object.
+		In an interface, we define what kind of operation an object can perform.
+		Use interfaces when you would like unrelated classes to implement your 
+		interface.
+	Abstract classes
+		To share code between several closely related classes.
+		Cannot be instantiated, but they can be subclassed.
+		When an abstract class is subclassed, the subclass usually provides implementations
+		for all the abstract methods in its parent class.
