@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92aff2b5-b55e-4172-afae-1dc586ceb539" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SetterInjection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SetterInjection/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Polymorphism" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -63,6 +66,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="66" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590448602291">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="66" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/66.27.1854.1053@66.27.1854.1053" timestamp="1590448602291" />
     <state x="1231" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1590160416986">
       <screen x="59" y="27" width="1861" height="1053" />
     </state>
@@ -84,10 +91,10 @@
       <screen x="66" y="27" width="1854" height="1053" />
     </state>
     <state width="861" height="275" key="GridCell.Tab.0.right/66.27.1854.1053@66.27.1854.1053" timestamp="1590119900409" />
-    <state x="896" y="188" width="1024" height="737" key="SettingsEditor" timestamp="1590116920720">
+    <state x="896" y="188" width="1024" height="737" key="SettingsEditor" timestamp="1590448403852">
       <screen x="66" y="27" width="1854" height="1053" />
     </state>
-    <state x="896" y="188" width="1024" height="737" key="SettingsEditor/66.27.1854.1053@66.27.1854.1053" timestamp="1590116920720" />
+    <state x="896" y="188" width="1024" height="737" key="SettingsEditor/66.27.1854.1053@66.27.1854.1053" timestamp="1590448403852" />
     <state x="1102" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1590119334607">
       <screen x="66" y="27" width="1854" height="1053" />
     </state>
