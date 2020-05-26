@@ -375,3 +375,26 @@ Interfaces quiz:
 	values. You should use interfaces in situations where you want to decouple 
 	a class from its dependencies so you can swap these dependencies. This allows 
 	building applications that are extensible and testable
+
+Runtime Exceptions
+
+	NullPointerException
+	ArithmeticException
+	IllegalArgumentException
+	IndexOutOfBoundsException
+	IllegalStateException
+
+	Throwable Class
+		Exception
+			RunTimeException
+		Error
+
+	Exceptions are objects with properties and functions.
+		exception.printStackTrace();
+	try {
+		var reader = new FIleReader("file.txt")
+	} catch (FileNotFoundException e){
+		e.printStackTrace()
+	} catch (IOException e) {
+		System.out.println("Could not read data");
+	}
