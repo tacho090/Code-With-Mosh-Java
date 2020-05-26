@@ -398,3 +398,15 @@ Runtime Exceptions
 	} catch (IOException e) {
 		System.out.println("Could not read data");
 	}
+
+Generics
+	Store different types of objects, depending on the parameter type you pass when
+		creating the object.
+	Enables catching of errors at compile time, rather than runtime.
+
+Bytecode
+	Virtual instructions that machine expects using java code.
+
+Type erasure
+	Select leftmost interface type. java compiler erases type parameters and replaces them
+	depending on the constraints.
